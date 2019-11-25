@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RollDice
+comment1.params=args
+comment1.target=void\ Main(java.lang.String[])
+comment2.params=rolls\ sides
+comment2.target=void\ Roller(int,\ int)
+numComments=3
